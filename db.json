@@ -1,9 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  "registers": [
+  {
+    "CalanderTypeId": 34,
+    "RegisterId": 4017,
+    "RegisterName": "Clubhouse I",
+    "LocationLab": "Bethpage, NY",
+    "LogoUri": "34.gif",
+    "TermianalEnabled": false
+  },
+  {
+    "CalanderTypeId": 34,
+    "RegisterId": 4018,
+    "RegisterName": "Clubhouse II",
+    "LocationLab": "Bethpage, NY",
+    "LogoUri": "34.gif",
+    "TermianalEnabled": false
+  },
+  {
+    "CalanderTypeId": 34,
+    "RegisterId": 3031,
+    "RegisterName": "Downstairs",
+    "LocationLab": "Bethpage, NY",
+    "LogoUri": "34.gif",
+    "TermianalEnabled": true
+  },
+  {
+    "CalanderTypeId": 34,
+    "RegisterId": 4207,
+    "RegisterName": "Perfomance Venue",
+    "LocationLab": "Bethpage, NY",
+    "LogoUri": "34.gif",
+    "TermianalEnabled": false
+  },
+  {
+    "CalanderTypeId": 34,
+    "RegisterId": 3681,
+    "RegisterName": "PRODUCTION DB",
+    "LocationLab": "Bethpage, NY",
+    "LogoUri": "34.gif",
+    "TermianalEnabled": false
+  },
+  {
+    "CalanderTypeId": 34,
+    "RegisterId": 3418,
+    "RegisterName": "Upstairs",
+    "LocationLab": "Bethpage, NY",
+    "LogoUri": "34.gif",
+    "TermianalEnabled": false
+  }
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
